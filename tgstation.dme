@@ -548,6 +548,7 @@
 #include "code\__DEFINES\~~iris_defines\traits\declarations.dm"
 #include "code\__DEFINES\~~oculis_defines\admin.dm"
 #include "code\__DEFINES\~~oculis_defines\astar.dm"
+#include "code\__DEFINES\~~oculis_defines\mobs.dm"
 #include "code\__DEFINES\~~oculis_defines\plexora.dm"
 #include "code\__DEFINES\~~oculis_defines\traits\declarations.dm"
 #include "code\__HELPERS\_auxtools_api.dm"
@@ -9966,5 +9967,6 @@
 #include "modular_oculis\modules\species\holosynth\code\holosynth.dm"
 #include "modular_oculis\modules\species\holosynth\code\holosynth_effects.dm"
 #include "modular_oculis\modules\species\holosynth\code\holosynth_projector.dm"
+#include "modular_oculis\modules\tg_lizards\code\tails.dm"
 #include "modular_oculis\modules\traditional_thinker\code\headbrain_quirk.dm"
 // END_INCLUDE
