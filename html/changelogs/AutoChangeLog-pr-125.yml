@@ -1,4 +1,0 @@
-author: "Absolucy"
-delete-after: True
-changes:
-  - rscadd: "Added latejoin and midround heretics. However, they can only roll if there's at least 1 head of staff, and 2 security members."
